@@ -12,3 +12,4 @@ Stock Market Kafka Real Time Data Engineering Project
 * Glue Catalog
 * EC2
 * Apache Kafka
+
