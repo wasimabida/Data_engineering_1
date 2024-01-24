@@ -2,10 +2,10 @@
 
 🔍 This project marked my debut in the realm of data engineering, where I utilized Python, Amazon Web Services (AWS), Apache Kafka, Glue, Athena, and SQL to build an end-to-end architecture for processing and visually analyzing real-time stock market data.
 
-# Architecture
+## Architecture
 ![](architecture.jpg)
 
-# Technologies used 
+## Technologies used 
 * Programming Language - Python
 * Amazon Web Service (AWS)
 * S3 (Simple Storage Service)
